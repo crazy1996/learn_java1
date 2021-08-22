@@ -2,7 +2,7 @@ public class testequals {
 
     public static void main(String[] args) {
         String a="123aaa";
-        String b="123aaa1";
+        String b="123aaa";
         boolean abc;
         abc = a.equals(b);
         if(a.equals(b)){
